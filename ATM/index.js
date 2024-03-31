@@ -1,3 +1,4 @@
+#! /usr/bin/env node
 import inquirer from "inquirer";
 import chalk from "chalk";
 let myBalance = 10000;
@@ -35,5 +36,5 @@ if (myOperation.pin === myPin) {
     }
 }
 else {
-    console.log("Incoorect Pin");
+    console.log("Incorrect Pin");
 }
