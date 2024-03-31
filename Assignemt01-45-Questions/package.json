@@ -1,0 +1,14 @@
+{
+  "name": "assignemt01-45-questions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": "modules",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
